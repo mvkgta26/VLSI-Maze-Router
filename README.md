@@ -1,4 +1,6 @@
-**MAIN: Router/router.cpp**
+**MAIN: Router/router.cpp** <br>
+**OUTPUT/SOLUTION: Router/solution.txt** <br>
+**OUTPUT/SOLUTION VISUAL: Router/solution.txt**
 
 # VLSI-Maze-Router
 Finds the shortest path from Source-Cell to Destination-Cell through a maze on a grid of squares.
